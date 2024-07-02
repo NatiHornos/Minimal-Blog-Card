@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+h1{
+    font-family: "Sora", sans-serif;
+    font-size: 1.125rem;
+    font-weight: weight;
+    font-style: normal;
+    }
+    
+    body{
+    font-family: "Sora", sans-serif;
+    font-size: 0.875rem;
+    font-weight: weight;
+    font-style: normal;
+    }
+    
+    footer{
+    font-family: "Sora", sans-serif;
+    font-size: 0.75rem;
+    font-weight: weight;
+    font-style: normal;
+    }
+    
+    section{
+    font-family: "Sora", sans-serif;
+    font-size: 0.625rem;
+    font-weight: 800;
+    font-style: normal;
+    }
